@@ -15,6 +15,10 @@ This project was built to showcase my professional background, technical skills,
 - 👋 Dynamic greeting using JavaScript
 - 🚀 Smooth scrolling navigation
 
+## 📸 Preview
+
+![Portfolio Preview](images/preview_portofolio)
+
 ## 🛠️ Technologies Used
 
 - 🌐 HTML5
