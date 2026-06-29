@@ -16,8 +16,7 @@ This project was built to showcase my professional background, technical skills,
 - 🚀 Smooth scrolling navigation
 
 ## 📸 Preview
-
-![image alt]([images/preview_portofolio](https://github.com/devinayaritsha/portofolio-website/blob/8038dde21c357b725fd76f5241751e0054e87b42/preview_portofolio.png))
+![image alt](https://github.com/devinayaritsha/portofolio-website/blob/8038dde21c357b725fd76f5241751e0054e87b42/preview_portofolio.png)
 
 ## 🛠️ Technologies Used
 
