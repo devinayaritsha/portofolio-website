@@ -1,0 +1,39 @@
+#contact .card{
+    border:none;
+    transition:.3s;
+}
+
+#contact .card:hover{
+    transform:translateY(-10px);
+}
+
+#contact a{
+    text-decoration:none;
+    font-weight:600;
+}
+
+#contact h1{
+    font-size:45px;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+.nav-link{
+    transition:.3s;
+}
+
+.nav-link:hover{
+    color:#0d6efd !important;
+}
+
+body{
+    padding-top:90px;
+}
+
+.navbar{
+    background:rgba(33,37,41,.95) !important;
+    backdrop-filter:blur(10px);
+}
+
